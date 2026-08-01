@@ -1,8 +1,8 @@
 # Azure AI Practice Questions & Demos
 
-This repository contains Azure AI practice questions, demo scripts, learning notes, and code samples.
+This repository contains demo code, setup notes, and learning resources used in my Azure AI and AI-103 YouTube videos.
 
-The content supports AI-103 exam preparation and practical Azure AI learning.
+The focus is on practical Azure AI learning using simple examples, Python SDK demos, and enterprise-style scenarios.
 
 ## Topics Covered
 
@@ -10,33 +10,18 @@ The content supports AI-103 exam preparation and practical Azure AI learning.
 - Azure OpenAI
 - AI Agents
 - Agentic AI
+- Threads, Runs, and Messages
+- Graph-Based Workflows
 - RAG
 - Vector Search
 - Embeddings
 - Evaluation Metrics
 - Prompt Engineering
-- Graph-Based Workflows
-- Threads, Runs, and Messages
 - Enterprise AI Architecture
 
 ## Repository Structure
 
-- `questions/` - Practice question scripts, descriptions, tags, and short scripts
-- `code/` - Python SDK demos and hands-on examples
-- `images/` - Concept images and thumbnails
-- `shorts/` - YouTube Shorts scripts
-- `docs/` - Templates and reusable notes
-
-## Current Questions
-
-| Question | Topic |
-|---|---|
-| Q014 | RAG vs Live Data |
-| Q015 | Graph-Based Workflow |
-| Q016 | Embeddings |
-| Q017 | Threads in Azure AI Agent Service SDK |
-
-## Author
-
-Niteen Kole  
-Cybersecurity Simplified
+```text
+video-index/   Links to YouTube videos, Shorts, and related code
+code/          Demo code used in videos
+docs/          Setup notes and reusable guidance
